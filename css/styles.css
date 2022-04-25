@@ -72,15 +72,17 @@ font-weight: normal;
 }
 
 .what{
-  font-size: 40px;
+  font-size: 50px;
   font-family: 'Montserrat', sans-serif;
   color: #2FA4FF;
+  font-weight: bolder;
 }
 
 .get{
-  font-size: 40px;
+  font-size: 50px;
   font-family: 'Montserrat', sans-serif;
   color: #2FA4FF;
+  font-weight: bolder;
 }
 
 .top-container{
